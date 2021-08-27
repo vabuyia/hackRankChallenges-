@@ -8,7 +8,7 @@ Given an integer,n , perform the following conditional actions:
 -If n is even and greater thanv 20, print Not Weird
 Complete the stub code provided in your editor to print whether or not n is weird.
 
-https://www.hackerrank.com/challenges/30-conditional-statements/problem
+Reference: https://www.hackerrank.com/challenges/30-conditional-statements/problem
 
 */
 
