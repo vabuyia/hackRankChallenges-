@@ -16,7 +16,7 @@ and tax percent (the percentage of the meal price being added as tax) for a meal
  *  3. INTEGER tax_percent
  */
     
-function solve(meal_cost=12, tip_percent=20, tax_percent=8) {
+function solve(meal_cost, tip_percent=, tax_percent) {
     // Write your code here
     let total_cost;
     total_cost =  meal_cost + meal_cost * tip_percent/100 + meal_cost * tax_percent/100;
